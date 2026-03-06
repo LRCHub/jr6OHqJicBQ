@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "透明人間",
+  "base_artist": "Tokyo Incidents",
+  "createdAt": "2026-03-06T05:55:34.733039Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "透明人間",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/01_透明人間_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "透明人間",
+      "artist": "青山吉能",
+      "has_synced": true,
+      "path": "select/02_透明人間_青山吉能.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "透明人間",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/03_透明人間_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Toumei Ningen (Original Instrumental) [透明人間 -Original Instrumental-]",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/04_Toumei_Ningen_(Original_Instrumental)_[透明人間_-Original_Instrumental-]_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Toumei Ningen [透明人間]",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/05_Toumei_Ningen_[透明人間]_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "透明人間",
+      "artist": "Tokyo Jihen",
+      "has_synced": true,
+      "path": "select/06_透明人間_Tokyo_Jihen.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "透明人間",
+      "artist": "Tokyo Jihen",
+      "has_synced": true,
+      "path": "select/07_透明人間_Tokyo_Jihen.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "透明人間",
+      "artist": "東京事変",
+      "has_synced": true,
+      "path": "select/08_透明人間_東京事変.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "透明人間 (アルバムバージョン)",
+      "artist": "東京事変",
+      "has_synced": true,
+      "path": "select/09_透明人間_(アルバムバージョン)_東京事変.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "透明人間 (Just can't help it.より)",
+      "artist": "東京事変",
+      "has_synced": true,
+      "path": "select/10_透明人間_(Just_can't_help_it.より)_東京事変.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tōmei Ningen [透明人間]",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/11_Tōmei_Ningen_[透明人間]_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "透明人間",
+      "artist": "東京事変",
+      "has_synced": true,
+      "path": "select/12_透明人間_東京事変.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "透明人間 - アルバムバージョン",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/13_透明人間_-_アルバムバージョン_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "透明人間",
+      "artist": "Superfly",
+      "has_synced": false,
+      "path": "select/14_透明人間_Superfly.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Toumei Ningen (透明人間)",
+      "artist": "Tokyo Jihen",
+      "has_synced": true,
+      "path": "select/15_Toumei_Ningen_(透明人間)_Tokyo_Jihen.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "透明人間 - Original Instrumental -",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/16_透明人間_-_Original_Instrumental_-_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "透明人間 (アルバムバージョン)",
+      "artist": "東京事変",
+      "has_synced": true,
+      "path": "select/17_透明人間_(アルバムバージョン)_東京事変.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "透明人間",
+      "artist": "稲葉浩志",
+      "has_synced": true,
+      "path": "select/18_透明人間_稲葉浩志.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "透明人間",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_透明人間_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "透明人間",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_02_透明人間_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "透明人間",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_03_透明人間_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "透明人間",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_04_透明人間_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "透明人間 (Just can't help it.より)",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_05_透明人間_(Just_can't_help_it.より)_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "透明人間 (Just can't help it.より)",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_06_透明人間_(Just_can't_help_it.より)_東京事変.txt"
+    }
+  ]
+}
